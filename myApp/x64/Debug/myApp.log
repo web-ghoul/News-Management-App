@@ -1,0 +1,3 @@
+﻿  HomePage.cpp
+  Header <QtSql/qsql.h> is deprecated. Please include <QtSql/qtsqlglobal.h> instead.
+  myApp.vcxproj -> E:\myApp\x64\Debug\myApp.exe
